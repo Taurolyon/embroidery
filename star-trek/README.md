@@ -1,4 +1,4 @@
-Embroidery Files for STAR-TERK
+Embroidery Files for STAR-TREK
 ==============================
 
 emblem.pes
